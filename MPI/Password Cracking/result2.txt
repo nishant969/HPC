@@ -1,0 +1,5 @@
+This program needs to run on exactly 3 processes
+Time elapsed was 130504962ns or 0.130504962s
+Time elapsed was 138728094ns or 0.138728094s
+Time elapsed was 137318271ns or 0.137318271s
+Time elapsed was 134240692ns or 0.134240692s
